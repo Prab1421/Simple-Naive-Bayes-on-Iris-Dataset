@@ -27,14 +27,17 @@ Accuracy: 0.93
 Error Rate: 0.07
 Precision: 0.94
 Recall: 0.94
-![Multinomial Naive Bayes](Multinomial_NB.png)
+![Multinomial Naive Bayes](MultinomialNB.png)
 
 Bernoulli Naïve Bayes:
 Confusion Matrix:
-[[ 0 10  0]
+[
+ [ 0 10  0]
  [ 0  9  0]
- [ 0 11  0]]
+ [ 0 11  0]
+]
 Accuracy: 0.30
 Error Rate: 0.70
 Precision: 0.10
 Recall: 0.33
+![Bernoulli's Naive Bayes](Bernoulli'sNB.png)
