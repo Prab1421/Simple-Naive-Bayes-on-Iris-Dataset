@@ -5,13 +5,16 @@ Data Analytics III
 
 Gaussian Naïve Bayes:
 Confusion Matrix:
-[[10  0  0]
+[
+ [10  0  0]
  [ 0  9  0]
- [ 0  0 11]]
+ [ 0  0 11]
+]
 Accuracy: 1.00
 Error Rate: 0.00
 Precision: 1.00
 Recall: 1.00
+![Gaussian Naive Bayes](GaussianNB.png)
 
 Multinomial Naïve Bayes:
 Confusion Matrix:
